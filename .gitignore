@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Binaries
 DerivedDataCache
 Intermediate
@@ -8,3 +9,33 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> fbdc3f7bebd28913b919b4a31185dc97561b1aa3
